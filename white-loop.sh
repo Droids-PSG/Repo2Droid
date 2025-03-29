@@ -1,4 +1,5 @@
 #!/bin/bash 
+#This script is a while loop
 
 echo "while loops starts"
 i=1
