@@ -1,1 +1,3 @@
-This is to deploy apps 
+This is to deploy apps
+Update required
+Update initialized 
